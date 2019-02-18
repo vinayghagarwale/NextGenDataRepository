@@ -1,0 +1,2 @@
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\DataAccess\NextGen.DataRepository.DataAccess.Encounter\obj\Debug\NextGen.DataRepository.DataAccess.Encounter.csprojAssemblyReference.cache
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\DataAccess\NextGen.DataRepository.DataAccess.Encounter\obj\Debug\NextGen.DataRepository.DataAccess.Encounter.csproj.CoreCompileInputs.cache

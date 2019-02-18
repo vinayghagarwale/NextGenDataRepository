@@ -1,0 +1,7 @@
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\Contract\NextGen.DataRepository.Contract\bin\Debug\NextGen.DataRepository.Contract.dll
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\Contract\NextGen.DataRepository.Contract\bin\Debug\NextGen.DataRepository.Contract.pdb
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\Contract\NextGen.DataRepository.Contract\obj\Debug\NextGen.DataRepository.Contract.csproj.CoreCompileInputs.cache
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\Contract\NextGen.DataRepository.Contract\obj\Debug\NextGen.DataRepository.Contract.dll
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\Contract\NextGen.DataRepository.Contract\obj\Debug\NextGen.DataRepository.Contract.pdb
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\Bin\NextGen.DataRepository.Contract.dll
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\Bin\NextGen.DataRepository.Contract.pdb

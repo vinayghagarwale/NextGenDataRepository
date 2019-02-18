@@ -1,0 +1,7 @@
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\Models\NextGen.DataRepository.Models\bin\Debug\NextGen.DataRepository.Models.dll
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\Models\NextGen.DataRepository.Models\bin\Debug\NextGen.DataRepository.Models.pdb
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\Models\NextGen.DataRepository.Models\obj\Debug\NextGen.DataRepository.Models.csproj.CoreCompileInputs.cache
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\Models\NextGen.DataRepository.Models\obj\Debug\NextGen.DataRepository.Models.dll
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\Models\NextGen.DataRepository.Models\obj\Debug\NextGen.DataRepository.Models.pdb
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\Bin\NextGen.DataRepository.Models.dll
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\Bin\NextGen.DataRepository.Models.pdb

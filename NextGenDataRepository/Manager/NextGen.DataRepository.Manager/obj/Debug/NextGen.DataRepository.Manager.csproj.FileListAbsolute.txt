@@ -1,0 +1,2 @@
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\Manager\NextGen.DataRepository.Manager\obj\Debug\NextGen.DataRepository.Manager.csprojAssemblyReference.cache
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\Manager\NextGen.DataRepository.Manager\obj\Debug\NextGen.DataRepository.Manager.csproj.CoreCompileInputs.cache

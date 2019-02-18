@@ -1,0 +1,7 @@
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\NextGen.DataRepository.Bootstrapper\bin\Debug\NextGen.DataRepository.Bootstrapper.dll
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\NextGen.DataRepository.Bootstrapper\bin\Debug\NextGen.DataRepository.Bootstrapper.pdb
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\NextGen.DataRepository.Bootstrapper\obj\Debug\NextGen.DataRepository.Bootstrapper.csproj.CoreCompileInputs.cache
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\NextGen.DataRepository.Bootstrapper\obj\Debug\NextGen.DataRepository.Bootstrapper.dll
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\NextGen.DataRepository.Bootstrapper\obj\Debug\NextGen.DataRepository.Bootstrapper.pdb
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\Bin\NextGen.DataRepository.Bootstrapper.dll
+E:\Side Projects\NextgenDataRepository\NextGenDataRepository\Bin\NextGen.DataRepository.Bootstrapper.pdb
